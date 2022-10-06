@@ -68,7 +68,7 @@ namespace CA221006
             Ember e = new()
             {
                 Nev = "Zoltán",
-                Eletkor = -30,
+                Eletkor = 28,
             };
 
             Console.WriteLine($"{e.Nev} életkora: {e.Eletkor}");
